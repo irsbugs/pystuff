@@ -1,6 +1,7 @@
 pystuff
 =======
 
-ians python stuff \n
+ians python stuff.
+
 Mostly for HamPUG
 
